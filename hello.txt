@@ -3,5 +3,6 @@ Hello World.
 Xin chao.
 I am cuongcx.
 123456
+hello world
 =======
 >>>>>>> parent of 254cde1... modified file hello.txt
