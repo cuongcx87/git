@@ -1,3 +1,7 @@
 Hello World.
+<<<<<<< HEAD
 Xin chao.
 I am cuongcx.
+123456
+=======
+>>>>>>> parent of 254cde1... modified file hello.txt
